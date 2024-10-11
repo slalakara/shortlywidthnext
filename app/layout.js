@@ -13,7 +13,7 @@ const geistMono = localFont({
 });
 
 export const metadata = {
-  title: "Shortly "
+  title: "Shortly"
 };
 
 export default function RootLayout({ children }) {
